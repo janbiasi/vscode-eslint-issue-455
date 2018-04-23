@@ -1,0 +1,28 @@
+{
+    "name": "main-app",
+    "version": "0.1.0",
+    "private": true,
+    "engines": {
+        "node": ">=8"
+    },
+    "dependencies": {
+        "react": "^16.3.2",
+        "react-dom": "^16.3.2",
+        "react-scripts": "1.1.4"
+    },
+    "devDependencies": {
+        "@configs/eslint": "0.1.0",
+        "eslint": "4.19.1",
+        "eslint-plugin-import": "2.11.0",
+        "flow-bin": "0.70.0",
+        "flow-typed": "2.4.0"
+    },
+    "scripts": {
+        "lint": "eslint .",
+        "flow": "flow",
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    }
+}

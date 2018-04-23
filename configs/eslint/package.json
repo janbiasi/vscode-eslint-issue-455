@@ -1,0 +1,7 @@
+{
+    "name": "@configs/eslint",
+    "version": "0.1.0",
+    "dependencies": {
+        "@namics/eslint-config": "5.0.0"
+    }
+}

@@ -1,0 +1,10 @@
+node_modules
+flow-typed
+docs
+public
+ressources
+build
+coverage
+bin
+dist
+src/version.js
