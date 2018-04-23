@@ -2,6 +2,8 @@ This project is an example for the [VSCode ESLint issue #455](https://github.com
 
 ### Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/janbiasi/vscode-eslint-issue-455.svg)](https://greenkeeper.io/)
+
 ```sh
 git clone https://github.com/janbiasi/vscode-eslint-issue-455.git
 cd vscode-eslint-issue-455
