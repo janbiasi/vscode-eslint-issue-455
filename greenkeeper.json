@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "configs/eslint/package.json",
+        "package.json",
+        "packages/apps/main-app/package.json",
+        "packages/apps/main-app/src/components/A/package.json"
+      ]
+    }
+  }
+}
